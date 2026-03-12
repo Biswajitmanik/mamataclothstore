@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" aria-labelledby="title desc">
+  <title id="title">Fashion Models Background</title>
+  <desc id="desc">Three stylized models: saree, kurti, and menswear.</desc>
+
+  <defs>
+    <linearGradient id="saree" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c94f2a"/>
+      <stop offset="100%" stop-color="#e48a57"/>
+    </linearGradient>
+    <linearGradient id="kurti" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#008a7d"/>
+      <stop offset="100%" stop-color="#37b1a6"/>
+    </linearGradient>
+    <linearGradient id="suit" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#21303f"/>
+      <stop offset="100%" stop-color="#3a4d64"/>
+    </linearGradient>
+  </defs>
+
+  <ellipse cx="250" cy="655" rx="160" ry="28" fill="#d8c8ae"/>
+  <ellipse cx="700" cy="655" rx="170" ry="30" fill="#d8c8ae"/>
+  <ellipse cx="1130" cy="655" rx="165" ry="28" fill="#d8c8ae"/>
+
+  <circle cx="250" cy="180" r="44" fill="#e3b48f"/>
+  <path d="M220 235 C225 265, 275 265, 280 235 L300 300 L200 300 Z" fill="#6e4f3a"/>
+  <path d="M205 300 L300 300 L325 610 L160 610 Z" fill="url(#saree)"/>
+  <path d="M205 300 C232 300, 250 355, 238 420 C228 475, 235 548, 250 610 L170 610 C175 500, 165 402, 180 330 Z" fill="#f1be9e"/>
+  <path d="M288 305 L340 410 L305 430 L262 330 Z" fill="#c94f2a"/>
+
+  <circle cx="700" cy="165" r="42" fill="#e3b48f"/>
+  <path d="M664 218 C675 250, 725 250, 736 218 L758 270 L642 270 Z" fill="#4e3c30"/>
+  <rect x="625" y="270" width="150" height="250" rx="26" fill="url(#kurti)"/>
+  <rect x="648" y="520" width="42" height="120" rx="16" fill="#f3d7bb"/>
+  <rect x="710" y="520" width="42" height="120" rx="16" fill="#f3d7bb"/>
+  <rect x="616" y="300" width="20" height="185" rx="10" fill="#00a092"/>
+  <rect x="764" y="300" width="20" height="185" rx="10" fill="#00a092"/>
+
+  <circle cx="1130" cy="160" r="42" fill="#ddb08c"/>
+  <path d="M1092 213 C1100 247, 1160 247, 1168 213 L1188 268 L1072 268 Z" fill="#503b2f"/>
+  <path d="M1045 268 L1215 268 L1248 600 L1012 600 Z" fill="url(#suit)"/>
+  <path d="M1110 270 L1150 270 L1146 408 L1114 408 Z" fill="#faf8f2"/>
+  <polygon points="1130,302 1114,346 1130,420 1146,346" fill="#cb5d2f"/>
+  <rect x="1080" y="600" width="44" height="50" rx="8" fill="#263344"/>
+  <rect x="1138" y="600" width="44" height="50" rx="8" fill="#263344"/>
+</svg>

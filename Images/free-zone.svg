@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" aria-labelledby="title desc">
+  <title id="title">Free Zone Outfitters</title>
+  <desc id="desc">Free Zone Outfitters logo in a black rectangle with white text.</desc>
+  <rect x="8" y="8" width="744" height="244" rx="8" fill="#0a0a0a" />
+  <text
+    x="380"
+    y="120"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-size="78"
+    font-weight="800"
+    font-family="Arial Black, Arial, sans-serif"
+    letter-spacing="1"
+  >
+    FREE ZONE
+  </text>
+  <text
+    x="380"
+    y="188"
+    text-anchor="middle"
+    fill="#f0f0f0"
+    font-size="46"
+    font-style="italic"
+    font-family="Brush Script MT, cursive"
+  >
+    Outfitters
+  </text>
+</svg>

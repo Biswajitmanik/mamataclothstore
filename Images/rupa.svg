@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 260" aria-labelledby="title desc">
+  <title id="title">Rupa</title>
+  <desc id="desc">Rupa logo with red wordmark and swoosh.</desc>
+
+  <path
+    d="M42 208 C145 80, 340 46, 520 56 C655 63, 760 105, 845 194 C713 118, 547 100, 421 112 C293 125, 170 163, 42 208 Z"
+    fill="#d9d9d9"
+  />
+  <path
+    d="M10 214 C126 60, 366 24, 613 56 C728 71, 823 124, 904 198 C739 108, 543 80, 385 95 C256 108, 137 152, 10 214 Z"
+    fill="#ef1f2f"
+  />
+
+  <text
+    x="308"
+    y="168"
+    fill="#ef1f2f"
+    font-size="132"
+    font-weight="900"
+    font-family="Arial Black, Arial, sans-serif"
+    letter-spacing="4"
+  >
+    RUPA
+  </text>
+  <text
+    x="825"
+    y="88"
+    fill="#ef1f2f"
+    font-size="36"
+    font-weight="700"
+    font-family="Arial, sans-serif"
+  >
+    ®
+  </text>
+</svg>

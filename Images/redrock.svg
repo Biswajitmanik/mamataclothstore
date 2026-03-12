@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" aria-labelledby="title desc">
+  <title id="title">Redrock</title>
+  <desc id="desc">Redrock wordmark logo in black text.</desc>
+  <text
+    x="24"
+    y="152"
+    fill="#111111"
+    font-size="112"
+    font-weight="800"
+    font-family="Arial Black, Arial, sans-serif"
+    letter-spacing="4"
+  >
+    REDROCK
+  </text>
+</svg>
